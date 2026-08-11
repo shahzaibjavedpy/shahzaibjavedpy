@@ -50,4 +50,4 @@ My path started in digital marketing and Technical SEO, giving me a strong insti
 ### 📫 Connect with Me
 
 * 📩 **Email:** networkengineerzobaib@gmail.com
-* 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/shahzaibjaveeed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a>
+* 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/shahzaibjavedpy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a>
