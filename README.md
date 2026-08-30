@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Shahzaib Javed</h1>
-<h3 align="center">Python Developer | Django & FastAPI Backend Engineer | REST API Specialist</h3>
+<p align="center">
+  <a href="https://git.io">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</p>
+
+# Hi 👋, I'm Shahzaib Javed 🔥
+
+I write backend engine architectures with a technical SEO engineer's instincts — prioritizing structural crawl throughput, runtime query optimization, and thread execution speed over simple text definitions. 
+
+My pathway carries a blend of two solid years executing architectural optimizations, Core Web Vitals remediation, and data systems scaling. That core operational lens drives my engineering workflow in building robust, performant backend web services.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahzaibjavedpy&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -8,37 +17,44 @@
 
 ---
 
-### 💼 About Me
-I build backend systems that don't just work — they're fast, clean, and built to scale.
+### 🛠️ Core Stack & Technology Matrix
 
-My path started in digital marketing and Technical SEO, giving me a strong instinct for real-world system performance: speed, structure, and measurable results. That curiosity pulled me toward Python backend development, where I build robust backend architectures end-to-end.
+*   **Languages & Core Frameworks:**
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+    ![FastAPI](https://shields.io)
+    ![REST API](https://img.shields.io/badge/REST%20API-005596?style=for-the-badge&logo=postman&logoColor=white)
 
-* 🔭 **Currently Working On:** Building RESTful microservices with FastAPI & Django.
-* 🌱 **Currently Learning:** Advanced Database Optimization (PostgreSQL/MySQL) & Docker.
-* ⚡ **Core Focus:** Clean code architecture, fast API responses, and database management.
+*   **Database Management Systems:**
+    ![SQLite](https://shields.io)
+    ![MySQL](https://shields.io)
+    ![MongoDB](https://shields.io)
 
----
-
-### ⚡ Tech Stack & Architecture
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages & Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005596?style=for-the-badge&logo=postman&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools & Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| **Frontend & Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Domain Edge** | ![Technical SEO](https://img.shields.io/badge/Technical_SEO-Optimization-FF4500?style=for-the-badge) |
+*   **Engineering Infrastructure & Automation:**
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+    ![Technical SEO Edge](https://img.shields.io/badge/Technical_SEO-Optimization-FF4500?style=for-the-badge)
 
 ---
 
-### 📂 Featured Repositories
+### 🚀 Featured Production & OOP Repositories
 
-* 🛠️ **[seo-audit-backend](https://github.com/shahzaibjavedpy/seo-audit-backend):** A lightweight Python REST API built with FastAPI for real-time technical SEO audits, analyzing headers, metadata, and canonical links.
-* 🐍 **[python-mini-projects](https://github.com/shahzaibjavedpy/python-mini-projects):** A curated collection of core Python scripts, automation tools, and backend logic implementations.
+#### ⚡ [UtilityBillingSystem](https://github.com)
+An enterprise-grade Python CLI billing automation engine constructed entirely over scalable Object-Oriented Programming (OOP) paradigms (`Inheritance tree`, `Method Overriding`, `super()`). Built with an interactive runtime control structure and an active relational database pipeline using **SQLite3** to parse grid matrix algorithms and net-metering thresholds dynamically.
+
+#### 🔍 [seo-audit-backend](https://github.com/shahzaibjavedpy/seo-audit-backend)
+A production-ready technical crawler API built with **FastAPI** leveraging asynchronous execution blocks to execute real-time programmatic website structural audits, scanning meta structures, canonical maps, response boundaries, and page performance layouts.
+
+#### 🤖 [discord-bot](https://github.com)
+An asynchronous automation bot driven by event loops via `discord.py` and actively deployed in a live container cloud infrastructure. Features environment variable configuration frameworks to ensure credential masking and network state persistence.
+
+#### 🌐 [port-scanner](https://github.com)
+A high-performance network reconnaissance application written in Python utilizing multi-threaded thread manipulation pools to run host port diagnostics and passive protocol analysis safely.
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Real-Time GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahzaibjavedpy&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -47,7 +63,13 @@ My path started in digital marketing and Technical SEO, giving me a strong insti
 
 ---
 
-### 📫 Connect with Me
+### 📩 Open for Collaboration & Engineering Inquiries
 
-* 📩 **Email:** networkengineerzobaib@gmail.com
-* 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/shahzaibjavedpy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/shahzaibjavedpy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:networkengineerzobaib@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+</p>
